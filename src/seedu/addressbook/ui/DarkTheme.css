@@ -2,16 +2,16 @@
 
 .text-field {
     -fx-font-size: 12pt;
-    -fx-font-family: "Consolas";
+    -fx-font-family: "Comic Sans MS";
     -fx-font-weight: bold;
-    -fx-text-fill: yellow;
-    -fx-control-inner-background: derive(#1d1d1d,20%);
+    -fx-text-fill: cyan;
+    -fx-control-inner-background: derive(#271313,20%);
 }
 
 .text-area {
     -fx-background-color: black;
-    -fx-control-inner-background: black;
-    -fx-font-family: "Segoe UI Semibold";
-    -fx-font-size: 10pt;
+    -fx-control-inner-background: white;
+    -fx-font-family: "Tahoma";
+    -fx-font-size: 11pt;
     -fx-padding: 5 5 5 5;
 }

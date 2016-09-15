@@ -5,7 +5,7 @@
     -fx-font-family: "Comic Sans MS";
     -fx-font-weight: bold;
     -fx-text-fill: cyan;
-    -fx-control-inner-background: derive(#271313,20%);
+    -fx-control-inner-background: derive(#271313,40%);
 }
 
 .text-area {

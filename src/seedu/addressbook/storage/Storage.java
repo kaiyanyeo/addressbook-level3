@@ -3,6 +3,9 @@ package seedu.addressbook.storage;
 import seedu.addressbook.data.AddressBook;
 import seedu.addressbook.data.exception.IllegalValueException;
 
+/**
+ * Represents the methods for storing data in addressbook.
+ */
 public abstract class Storage {
 
     /* Note: Note the use of nested classes below.

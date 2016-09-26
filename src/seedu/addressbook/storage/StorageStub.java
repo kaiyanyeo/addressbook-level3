@@ -9,6 +9,9 @@ import javax.xml.bind.JAXBException;
 import seedu.addressbook.data.AddressBook;
 import seedu.addressbook.storage.jaxb.AdaptedAddressBook;
 
+/**
+ * Represents the Storage object for testing the Logic class.
+ */
 public class StorageStub extends Storage {
 
     /** Default file path used if the user doesn't provide the file name. */
